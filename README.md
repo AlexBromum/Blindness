@@ -18,13 +18,13 @@ A mod that adds useful tools and items for blind characters in Cataclysm BN.
 
 ## Установка
 
-1. Загрузите последнюю версию со страницы [Релизы](https://github.com/ВАШ_USERNAME/Blindness/releases)
+1. Загрузите последнюю версию со страницы [Релизы](https://github.com/AlexBromum/Blindness/releases)
 2. Распакуйте архив в папку "\userdata\mods"
 3. Включите мод при создании мира.
 
 ## Installation
 
-1. Download the latest release from the [Releases page](https://github.com/ВАШ_USERNAME/Blindness/releases)
+1. Download the latest release from the [Releases page](https://github.com/AlexBromum/Blindness/releases)
 2. Extract the archive to your `\userdata\mods` folder
 3. Enable the mod in the game's mod manager
 
